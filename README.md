@@ -59,7 +59,7 @@ Folium → Geospatial mapping
 📜 License
 
 This project is licensed under the MIT License.
-You are free to use and modify it for personal or commercial projects.
+
 
 ✨ Author
 
