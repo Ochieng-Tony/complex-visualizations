@@ -1,1 +1,2 @@
-"# Complex Python Visualizations in Jupyter Notebook" 
+"# Python Visualizations in Jupyter Notebook" 
+
