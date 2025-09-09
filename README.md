@@ -18,6 +18,6 @@ It includes examples of:
 ## ⚙️ Installation
 Clone the repo and install dependencies:
 ```bash
-git clone https://github.com/YOUR-USERNAME/complex-visualizations.git
+git clone https://github.com/Ochieng-Tony/complex-visualizations.git
 cd complex-visualizations
 pip install -r requirements.txt
